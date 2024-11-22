@@ -13,5 +13,5 @@ spring:
       hibernate:
         dialect: org.hibernate.dialect.PostgreSQLDialect
 jwt:
-  secret: "gh23dsaa23dcd3dfokkv954l6h14h5j4lk647gfd4ghf5fuyuyt12343y"
+  secret: "yours_jwt_secret"
   expiration: 3600000
